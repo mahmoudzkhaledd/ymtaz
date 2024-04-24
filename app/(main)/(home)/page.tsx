@@ -1,4 +1,4 @@
-import { categories } from "@/constants/Categories";
+
 import CategoryCard from "./_components/CategoryCard";
 import HomePageHeader from "../../../components/General/PageHeader";
 import { getCategories } from "@/Services/GetCategories";
